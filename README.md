@@ -64,3 +64,6 @@
 <!-- Add more as needed -->
 <!--![snake gif](https://github.com/amitkumarxd/amitkumarxd/blob/output/github-contribution-grid-snake.svg)-->
 ![snake gif](https://github.com/amitkumarxd/amitkumarxd/blob/output/github-contribution-grid-snake.svg)
+
+[![snake gif](https://github.com/amitkumarxd/amitkumarxd/blob/output/github-contribution-grid-snake.svg)
+
