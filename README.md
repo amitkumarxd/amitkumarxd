@@ -11,9 +11,10 @@
 - 🌱 I’m currently learning **advanced backend architecture and scalable deployments**
 - 👯 I’m looking to collaborate on **automation, scraping, and API integrations**
 - 💬 Ask me about **Python, Selenium, Web Scraping, FastAPI, and Automation**
-- 📫 How to reach me: **Email at [automatewithak.dev@gmail.com](mailto:automatewithak.dev@gmail.com) | [Upwork](https://www.upwork.com/freelancers/~015501bda6a047bbc9) | [Fiverr](https://www.fiverr.com/ak_tech9)**
+- 📫 How to reach me: **Email at [automatewithak.dev@gmail.com](mailto:automatewithak.dev@gmail.com) | [Upwork Profile](https://www.upwork.com/freelancers/~015501bda6a047bbc9)**
+<!-- - 📫 How to reach me: **Email at [automatewithak.dev@gmail.com](mailto:automatewithak.dev@gmail.com) | [Upwork Profile](https://www.upwork.com/freelancers/~015501bda6a047bbc9) | [Fiverr Profile](https://www.fiverr.com/ak_tech9)**-->
 - ⚡ Fun fact: **I love simplifying complex tasks through automation**
-
+<!-- Add more as needed -->
 ---
 
 ### 🛠️ **Languages and Tools**
@@ -60,4 +61,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitkumarxd&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake gif](https://github.com/amitkumarxd/amitkumarxd/blob/output/github-contribution-grid-snake.svg)
+<!-- Add more as needed -->
+<!--![snake gif](https://github.com/amitkumarxd/amitkumarxd/blob/output/github-contribution-grid-snake.svg)-->
