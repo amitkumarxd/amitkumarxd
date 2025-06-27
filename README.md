@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **advanced backend architecture and scalable deployments**
 - 👯 I’m looking to collaborate on **automation, scraping, and API integrations**
 - 💬 Ask me about **Python, Selenium, Web Scraping, FastAPI, and Automation**
-- 📫 How to reach me: **Email at [EmailEmailtemp@gmail.com](mailto:EmailEmailtemp@gmail.com) or [Contact me on Upwork](https://www.upwork.com/freelancers/~015501bda6a047bbc9)**
+- 📫 How to reach me: **Email at [EmailEmailtemp@gmail.com](mailto:automatewithak.dev@gmail.com) or [Contact me on Upwork](https://www.upwork.com/freelancers/~015501bda6a047bbc9)**
 - ⚡ Fun fact: **I love simplifying complex tasks through automation**
 
 ---
