@@ -2,7 +2,7 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # har din midnight UTC par chalega
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Generate contribution snake graph
-        uses: platane/snk@v0.4.8
+        uses: Platane/snk@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push snake graph
